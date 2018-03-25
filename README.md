@@ -1,5 +1,5 @@
 # Top-500-Billionaires
-Top 500 
+Top 500 by Net Worth
 
 
 	Rank	Name	Net Worth	Age	Source	Country of Citizenship
